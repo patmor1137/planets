@@ -1,2 +1,3 @@
 Mars is the 4th planet form the Sun
 The color of this planet is red.
+Mars has two nice moons.
